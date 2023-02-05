@@ -1,0 +1,19 @@
+{
+  "name": "movie_list_manager",
+  "version": "1.0.0",
+  "description": "Movie List Manager is a Node.js application which assists you in managing your list of movies and series. It uses the omdbapi to fetch details of the titles and displays them for the user to interact with using different filters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHSC-1053/movie_list_manager.git"
+  },
+  "author": "CHSC-1053",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CHSC-1053/movie_list_manager/issues"
+  },
+  "homepage": "https://github.com/CHSC-1053/movie_list_manager#readme"
+}
