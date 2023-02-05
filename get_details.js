@@ -1,6 +1,8 @@
 const request = require('request-promise-native');
 const fs = require('fs').promises;
 
+var apikey = ""; // ENTER YOUR OMDb API KEY INSIDE THE QUOTES Ex: "xxxxxxxx"
+
 var items = [];
 
 async function readFile() {
@@ -19,7 +21,7 @@ async function readFile() {
     const title = item.slice(0,-7), year = item.slice(-5,-1);
     const options = {
       method: 'GET',
-      url: `http://www.omdbapi.com/?apikey=a59c5e7f&t=${title}&y=${year}`, //  308047b8
+      url: `http://www.omdbapi.com/?apikey=${apikey}&t=${title}&y=${year}`,
       json: true
     };
     const response = await request(options);
