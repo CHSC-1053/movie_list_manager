@@ -10,4 +10,6 @@ Preview Image:
 
 ![img](res/README/preview.png "Preview")
 
-[Preview Video](https://github.com/CHSC-1053/movie_list_manager/tree/main/res/README/preview.mp4)
+Preview Video:
+
+https://user-images.githubusercontent.com/83070675/216808513-1db21342-488e-4f4c-bbc8-49f11e75ee03.mp4
