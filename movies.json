@@ -904,37 +904,41 @@
     "Response": "True"
   },
   {
-    "Title": "Birdman",
+    "Title": "Birdman or (The Unexpected Virtue of Ignorance)",
     "Year": "2014",
-    "Rated": "N/A",
-    "Released": "N/A",
-    "Runtime": "13 min",
-    "Genre": "Documentary, Short",
-    "Director": "Guy Bolongaro",
-    "Writer": "N/A",
-    "Actors": "Caroline Christl Long",
-    "Plot": "A portrait of Robert, a troubled but poetic soul struggling with his purgatorial existence in a hackney scrapyard.",
-    "Language": "N/A",
-    "Country": "UK",
-    "Awards": "N/A",
-    "Poster": "N/A",
+    "Rated": "R",
+    "Released": "14 Nov 2014",
+    "Runtime": "119 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Alejandro G. Iñárritu",
+    "Writer": "Alejandro G. Iñárritu, Nicolás Giacobone, Alexander Dinelaris",
+    "Actors": "Michael Keaton, Zach Galifianakis, Edward Norton",
+    "Plot": "A washed-up superhero actor attempts to revive his fading career by writing, directing, and starring in a Broadway production.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 4 Oscars. 193 wins & 293 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@._V1_SX300.jpg",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "5.1/10"
+        "Value": "7.7/10"
       },
       {
         "Source": "Rotten Tomatoes",
         "Value": "91%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "87/100"
       }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.1",
-    "imdbVotes": "174",
-    "imdbID": "tt5130912",
+    "Metascore": "87",
+    "imdbRating": "7.7",
+    "imdbVotes": "635,267",
+    "imdbID": "tt2562232",
     "Type": "movie",
     "DVD": "17 Feb 2015",
-    "BoxOffice": "N/A",
+    "BoxOffice": "$42,340,598",
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True"
